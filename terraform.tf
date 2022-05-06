@@ -7,7 +7,7 @@ terraform {
       name = "learn-terraform-locals"
     }
   }
-	*/
+  */
 
   required_providers {
     aws = {
